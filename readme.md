@@ -6,5 +6,5 @@ Une bonne nutrition repose sur un équilibre entre les différents nutriments es
 - Cours : 1W1-Mise en page Web
 - Département: TIM
 - Collège de Maisonneuve
-- Github-page: 
+- Github-page: https://eddytuto.github.io/gr4-1w1-tp2/
 
